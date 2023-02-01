@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/laaaaaaaaa"
+    app:startDestination="@id/fiiiirstFragment">
+
+    <fragment
+        android:id="@+id/fiiiirstFragment"
+        android:name="com.moonton.mobile.gtgtgt.FiiiirstFragment"
+        android:label="fragment_fiiiirst"
+        tools:layout="@layout/fragment_fiiiirst" >
+        <action
+            android:id="@+id/action_fiiiirstFragment_to_cooontntntntFragment"
+            app:destination="@id/cooontntntntFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cooontntntntFragment"
+        android:name="com.moonton.mobile.gihghgthitg.CooontntntntFragment"
+        android:label="fragment_cooontntntnt"
+        tools:layout="@layout/fragment_cooontntntnt" >
+        <action
+            android:id="@+id/action_cooontntntntFragment_to_seeeeecccMaaainragment"
+            app:destination="@id/seeeeecccMaaainragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/seeeeecccMaaainragment"
+        android:name="com.moonton.mobile.gthgthtgiuugt.SeeeeecccMaaainragment"
+        android:label="fragment_seeeeeccc_maaainragment"
+        tools:layout="@layout/fragment_seeeeeccc_maaainragment" >
+        <action
+            android:id="@+id/action_seeeeecccMaaainragment_to_beeeffffoooFiiilalaFragment"
+            app:destination="@id/beeeffffoooFiiilalaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/beeeffffoooFiiilalaFragment"
+        android:name="com.moonton.mobile.gihghgthitg.BeeeffffoooFiiilalaFragment"
+        android:label="fragment_beeeffffooo_fiiilala"
+        tools:layout="@layout/fragment_beeeffffooo_fiiilala" >
+        <action
+            android:id="@+id/action_beeeffffoooFiiilalaFragment_to_fiiiilaaaaFragment"
+            app:destination="@id/fiiiilaaaaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fiiiilaaaaFragment"
+        android:name="com.moonton.mobile.gihghgthitg.FiiiilaaaaFragment"
+        android:label="fragment_fiiiilaaaa"
+        tools:layout="@layout/fragment_fiiiilaaaa" />
+</navigation>

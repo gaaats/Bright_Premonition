@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bright Premonition</string>
+    <string name="facebook_app_id">494028059573087</string>
+    <string name="facebook_client_token">0bde032abd7bcb97263cd6abd251fa72</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

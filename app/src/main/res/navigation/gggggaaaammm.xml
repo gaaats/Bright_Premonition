@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gggggaaaammm"
+    app:startDestination="@id/gaaaammmy1Fragment">
+
+    <fragment
+        android:id="@+id/gaaaammmy1Fragment"
+        android:name="com.moonton.mobile.gaaaamamama.gjitgjigtjigt.Gaaaammmy1Fragment"
+        android:label="fragment_gaaaammmy1"
+        tools:layout="@layout/fragment_gaaaammmy1" >
+        <action
+            android:id="@+id/action_gaaaammmy1Fragment_to_gaaaammyyy2Fragment"
+            app:destination="@id/gaaaammyyy2Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gaaaammyyy2Fragment"
+        android:name="com.moonton.mobile.gaaaamamama.gjitgjigtjigt.Gaaaammyyy2Fragment"
+        android:label="fragment_gaaaammyyy2"
+        tools:layout="@layout/fragment_gaaaammyyy2" >
+        <action
+            android:id="@+id/action_gaaaammyyy2Fragment_to_gaaaaamy3Fragment"
+            app:destination="@id/gaaaaamy3Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gaaaaamy3Fragment"
+        android:name="com.moonton.mobile.gaaaamamama.gjitgjigtjigt.Gaaaaamy3Fragment"
+        android:label="fragment_gaaaaamy3"
+        tools:layout="@layout/fragment_gaaaaamy3" >
+        <action
+            android:id="@+id/action_gaaaaamy3Fragment_to_gaaaammmy1Fragment"
+            app:destination="@id/gaaaammmy1Fragment" />
+    </fragment>
+</navigation>
