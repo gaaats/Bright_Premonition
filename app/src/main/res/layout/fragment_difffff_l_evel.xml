@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/gaaaaamamamu"
     android:layout_height="match_parent"
-    tools:context=".DifffffLEvelFragment">
+    tools:context=".gtgtgt.DifffffLEvelFragment">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline_hor_95gttg"
@@ -84,7 +84,7 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:scaleType="centerInside"
-        android:src="@drawable/sasha_info"
+        android:src="@drawable/frbdevedfedyted"
         app:layout_constraintStart_toEndOf="@id/imgsettings"
         app:layout_constraintEnd_toStartOf="@id/clooose"
         app:layout_constraintTop_toBottomOf="@id/guideline_hor_05gt" />
@@ -95,7 +95,7 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:scaleType="centerInside"
-        android:src="@drawable/sasha_close"
+        android:src="@drawable/fnfkrfkghgthgthgt"
         app:layout_constraintStart_toEndOf="@id/img_info"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95gtgtt"
         app:layout_constraintTop_toBottomOf="@id/guideline_hor_05gt" />
@@ -107,7 +107,7 @@
         android:layout_height="60dp"
         android:paddingEnd="16dp"
         android:rotation="180"
-        android:src="@drawable/sasha_fortune_elem_pointer"
+        android:src="@drawable/frrfrfggfyfdyfetdfed"
         app:layout_constraintTop_toTopOf="@id/img_titple_gamefrrfr"
         app:layout_constraintBottom_toBottomOf="@id/img_titple_gamefrrfr"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95gtgtt"/>
@@ -117,7 +117,7 @@
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:paddingEnd="16dp"
-        android:src="@drawable/sasha_fortune_elem_pointer"
+        android:src="@drawable/frrfrfggfyfdyfetdfed"
         app:layout_constraintTop_toTopOf="@id/img_titple_gamefrrfr"
         app:layout_constraintBottom_toBottomOf="@id/img_titple_gamefrrfr"
         app:layout_constraintStart_toStartOf="@id/guideline_vert_05gt"/>

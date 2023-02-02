@@ -1,6 +1,5 @@
-package com.moonton.mobile
+package com.moonton.mobile.gtgtgt
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -8,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.google.android.material.snackbar.Snackbar
+import com.moonton.mobile.R
 import com.moonton.mobile.databinding.FragmentDifffffLEvelBinding
 
 

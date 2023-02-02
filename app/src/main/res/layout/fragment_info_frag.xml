@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/gaaaaamamamu"
     android:layout_height="match_parent"
-    tools:context=".InfoFragFragment">
+    tools:context=".gtgtgt.InfoFragFragment">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline_hor_30"
@@ -91,7 +91,7 @@
         android:id="@+id/btn_img_exit"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:src="@drawable/sasha_close"
+        android:src="@drawable/fnfkrfkghgthgthgt"
         app:layout_constraintBottom_toBottomOf="@id/guideline_hor_10"
         app:layout_constraintDimensionRatio="1,1"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95"
@@ -153,7 +153,7 @@
         android:layout_marginEnd="32dp"
         android:progress="90"
         android:progressDrawable="@drawable/sasha_seek_bar_custom"
-        android:thumb="@drawable/sasha_thumb_custom"
+        android:thumb="@drawable/frojrfhrfgrffrgfr"
         android:thumbTint="#020A27"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95"
         app:layout_constraintStart_toStartOf="@id/guideline_vert_05"
@@ -191,7 +191,7 @@
         android:layout_marginEnd="32dp"
         android:progress="30"
         android:progressDrawable="@drawable/sasha_seek_bar_custom"
-        android:thumb="@drawable/sasha_thumb_custom"
+        android:thumb="@drawable/frojrfhrfgrffrgfr"
         android:thumbTint="#020A27"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95"
         app:layout_constraintStart_toStartOf="@id/guideline_vert_05"

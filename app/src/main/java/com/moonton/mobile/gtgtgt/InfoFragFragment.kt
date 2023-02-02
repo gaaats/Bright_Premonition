@@ -1,4 +1,4 @@
-package com.moonton.mobile
+package com.moonton.mobile.gtgtgt
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

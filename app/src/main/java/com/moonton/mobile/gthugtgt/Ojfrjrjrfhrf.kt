@@ -11,7 +11,7 @@ import com.appsflyer.AppsFlyerConversionListener
 import com.appsflyer.AppsFlyerLib
 import com.facebook.applinks.AppLinkData
 import com.google.android.gms.ads.identifier.AdvertisingIdClient
-import com.moonton.mobile.frygrfgyufr.Util.ihrfihrfhfrhrf
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.ihrfihrfhfrhrf
 import com.moonton.mobile.ghrfhrfuhrf.Fjfrrfhrfhfr
 import com.moonton.mobile.ghrfhrfuhrf.Ijfrirfirfhrf
 import com.moonton.mobile.ghrfhrfuhrf.Jfrhihihhfr
@@ -20,7 +20,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
 
-class ViMod(
+class Ojfrjrjrfhrf(
     private val mainRepository: Fjfrrfhrfhfr,
     private val frrfygrfggrfy: Ijfrirfirfhrf,
     private val shP: SharedPreferences,

@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/gaaaaamamamu"
     android:layout_height="match_parent"
-    tools:context=".SetttingsFragment">
+    tools:context=".gtgtgt.SetttingsFragment">
 
 
     <androidx.constraintlayout.widget.Guideline
@@ -102,7 +102,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:alpha="0.9"
-        android:src="@drawable/sasha_close"
+        android:src="@drawable/fnfkrfkghgthgthgt"
         app:layout_constraintBottom_toBottomOf="@id/guideline_hor_10"
         app:layout_constraintDimensionRatio="1,1"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95"
@@ -116,7 +116,7 @@
         android:layout_marginTop="16dp"
         android:alpha="0.8"
         android:padding="5dp"
-        android:src="@drawable/sasha_info"
+        android:src="@drawable/frbdevedfedyted"
         app:layout_constraintEnd_toEndOf="@id/guideline_vert_95"
         app:layout_constraintStart_toStartOf="@id/guideline_vert_05"
         app:layout_constraintTop_toBottomOf="@id/tv_title_rules_game" />
@@ -125,6 +125,7 @@
     <ScrollView
         android:id="@+id/scroll_v_for_text_game_rules"
         android:layout_width="0dp"
+        android:background="#261147"
         android:layout_height="0dp"
         android:layout_marginTop="24dp"
         android:padding="2dp"

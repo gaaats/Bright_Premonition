@@ -1,13 +1,13 @@
 package com.moonton.mobile.gihghgthitg
 
 
-import com.moonton.mobile.frygrfgyufr.Util.gthigthgt
-import com.moonton.mobile.frygrfgyufr.Util.myIdggtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.gtgtjogtjogtogt
-import com.moonton.mobile.frygrfgyufr.Util.gtigthihgthgt
-import com.moonton.mobile.frygrfgyufr.Util.paaakakakaka
-import com.moonton.mobile.frygrfgyufr.Util.frfhirfhrfhrfifr
-import com.moonton.mobile.frygrfgyufr.Util.frkbrrfbbrfb
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gthigthgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.myIdggtgtgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gtgtjogtjogtogt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gtigthihgthgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.paaakakakaka
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.frfhirfhrfhrfifr
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.frkbrrfbbrfb
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
@@ -21,17 +21,17 @@ import com.appsflyer.AppsFlyerLib
 import com.moonton.mobile.gaaaamamama.gjitgjigtjigt.GaaaaaaaammmmuuuActivity2
 import com.moonton.mobile.R
 import com.moonton.mobile.vvveeevvv.VeeeeeeeeeeeeevActivity2
-import com.moonton.mobile.frygrfgyufr.Util.frrfufrguygyrf
-import com.moonton.mobile.frygrfgyufr.Util.appsgtgtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.aps_idhyhyhyhyhy
-import com.moonton.mobile.frygrfgyufr.Util.gngtkntgngtngt
-import com.moonton.mobile.frygrfgyufr.Util.gtjgtjojtgo
-import com.moonton.mobile.frygrfgyufr.Util.ggtgtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.ggthgtiuhgti
-import com.moonton.mobile.frygrfgyufr.Util.frrfbjjbhfrbjhfr
-import com.moonton.mobile.frygrfgyufr.Util.gtjiojggtjgt
-import com.moonton.mobile.frygrfgyufr.Util.rfrfhifrihrfhi
-import com.moonton.mobile.frygrfgyufr.Util.urlMain
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.frrfufrguygyrf
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.appsgtgtgtgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.aps_idhyhyhyhyhy
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gngtkntgngtngt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gtjgtjojtgo
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.ggtgtgtgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.ggthgtiuhgti
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.frrfbjjbhfrbjhfr
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gtjiojggtjgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.rfrfhifrihrfhi
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.urlMain
 import org.koin.android.ext.android.inject
 import org.koin.core.qualifier.named
 

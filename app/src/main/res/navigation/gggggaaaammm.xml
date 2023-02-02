@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/enteeerGameFragment"
-        android:name="com.moonton.mobile.EnteeerGameFragment"
+        android:name="com.moonton.mobile.gtgtgt.EnteeerGameFragment"
         android:label="fragment_enteeer_game"
         tools:layout="@layout/fragment_enteeer_game" >
         <action
@@ -43,7 +43,7 @@
     </fragment>
     <fragment
         android:id="@+id/difffffLEvelFragment"
-        android:name="com.moonton.mobile.DifffffLEvelFragment"
+        android:name="com.moonton.mobile.gtgtgt.DifffffLEvelFragment"
         android:label="fragment_difffff_l_evel"
         tools:layout="@layout/fragment_difffff_l_evel" >
         <action
@@ -58,12 +58,12 @@
     </fragment>
     <fragment
         android:id="@+id/setttingsFragment"
-        android:name="com.moonton.mobile.SetttingsFragment"
+        android:name="com.moonton.mobile.gtgtgt.SetttingsFragment"
         android:label="fragment_setttings"
         tools:layout="@layout/fragment_setttings" />
     <fragment
         android:id="@+id/infoFragFragment"
-        android:name="com.moonton.mobile.InfoFragFragment"
+        android:name="com.moonton.mobile.gtgtgt.InfoFragFragment"
         android:label="fragment_info_frag"
         tools:layout="@layout/fragment_info_frag" />
 </navigation>

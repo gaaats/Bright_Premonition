@@ -9,10 +9,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.moonton.mobile.R
-import com.moonton.mobile.frygrfgyufr.Util
-import com.moonton.mobile.frygrfgyufr.Util.gngtkntgngtngt
-import com.moonton.mobile.frygrfgyufr.Util.urlMain
-import com.moonton.mobile.gthugtgt.ViMod
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gngtkntgngtngt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.urlMain
+import com.moonton.mobile.gthugtgt.Ojfrjrjrfhrf
 import org.koin.android.ext.android.inject
 import org.koin.androidx.viewmodel.ext.android.activityViewModel
 import org.koin.core.qualifier.named
@@ -35,7 +35,7 @@ class SeeeeecccMaaainragment : Fragment() {
         gtitjgtirfurfggfryfr = context
     }
 
-    val ffhrrfrfyggfryrf by activityViewModel<ViMod>(named("MainModel"))
+    val ffhrrfrfyggfryrf by activityViewModel<Ojfrjrjrfhrf>(named("MainModel"))
     lateinit var frjrfjjjgtjgtjigtji: String
     lateinit var frbfrrbfrfbhfr: String
     lateinit var cvdgvdcvdcvdgc: String
@@ -60,7 +60,7 @@ class SeeeeecccMaaainragment : Fragment() {
                 frbfrrbfrfbhfr = it.gtgtitghgt
 
                 vbfhfbrrfgfyrfryyfr.edit().putString(gngtkntgngtngt, frjrfjjjgtjgtjigtji).apply()
-                vbfhfbrrfgfyrfryyfr.edit().putString(Util.appsgtgtgtgt, cvdgvdcvdcvdgc).apply()
+                vbfhfbrrfgfyrfryyfr.edit().putString(GYUgdyggfryg.appsgtgtgtgt, cvdgvdcvdcvdgc).apply()
                 vbfhfbrrfgfyrfryyfr.edit().putString(urlMain, frbfrrbfrfbhfr).apply()
 
                 rfufhfrhfrhhrfhrfhurf()

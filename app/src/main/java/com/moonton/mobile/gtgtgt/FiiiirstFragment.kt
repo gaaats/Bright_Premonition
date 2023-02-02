@@ -8,14 +8,14 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.moonton.mobile.R
-import com.moonton.mobile.gthugtgt.ViMod
+import com.moonton.mobile.gthugtgt.Ojfrjrjrfhrf
 import org.koin.androidx.viewmodel.ext.android.activityViewModel
 import org.koin.core.qualifier.named
 
 class FiiiirstFragment : Fragment() {
     private lateinit var frfhirfhirfhrf: Context
 
-    val frrfnknbnthgthg by activityViewModel<ViMod>(named("MainModel"))
+    val frrfnknbnthgthg by activityViewModel<Ojfrjrjrfhrf>(named("MainModel"))
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

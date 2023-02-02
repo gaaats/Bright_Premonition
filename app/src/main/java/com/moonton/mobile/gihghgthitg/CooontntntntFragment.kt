@@ -9,8 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.moonton.mobile.R
-import com.moonton.mobile.frygrfgyufr.Util.gtjgtjojtgo
-import com.moonton.mobile.gthugtgt.ViMod
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gtjgtjojtgo
+import com.moonton.mobile.gthugtgt.Ojfrjrjrfhrf
 import org.koin.android.ext.android.inject
 import org.koin.androidx.viewmodel.ext.android.activityViewModel
 import org.koin.core.qualifier.named
@@ -25,7 +25,7 @@ class CooontntntntFragment : Fragment() {
     }
 
     val gtihgthgthihddbdb: SharedPreferences by inject(named("SharedPreferences"))
-    val gtngtgtgtgtugth by activityViewModel<ViMod>(named("MainModel"))
+    val gtngtgtgtgtugth by activityViewModel<Ojfrjrjrfhrf>(named("MainModel"))
 
     lateinit var rfrfbhjfrbbfrhbhrf: String
 

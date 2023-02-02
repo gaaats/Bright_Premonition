@@ -5,12 +5,12 @@ import android.content.Context
 import android.content.SharedPreferences
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
-import com.moonton.mobile.fgyrfgyrfyg.BeamModel
+import com.moonton.mobile.fgyrfgyrfyg.UGgdeffeded
 import com.moonton.mobile.ghrfhrfuhrf.Fjfrrfhrfhfr
 import com.moonton.mobile.ghrfhrfuhrf.Ijfrirfirfhrf
 import com.moonton.mobile.ghrfhrfuhrf.frrfrfrffrrf.Gfigrgrfgrf
 import com.moonton.mobile.ghrfhrfuhrf.frrfrfrffrrf.Yfrgrfyufgrfgry
-import com.moonton.mobile.gthugtgt.ViMod
+import com.moonton.mobile.gthugtgt.Ojfrjrjrfhrf
 import org.koin.android.ext.koin.androidApplication
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.core.qualifier.named
@@ -20,10 +20,10 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 val deedbdebbdehfggrfgrfy = module {
     viewModel (named("MainModel")){
-        ViMod((get(named("CountryRep"))), get(named("DevRep")), get(named("SharedPreferences")), get())
+        Ojfrjrjrfhrf((get(named("CountryRep"))), get(named("DevRep")), get(named("SharedPreferences")), get())
     }
     viewModel(named("BeamModel")) {
-        BeamModel(get())
+        UGgdeffeded(get())
     }
 }
 

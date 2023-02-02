@@ -2,10 +2,10 @@ package com.moonton.mobile.brbfrb
 
 import android.app.Application
 import android.content.Context
-import com.moonton.mobile.frygrfgyufr.Util.ggtgtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.gthuigthgthgt
-import com.moonton.mobile.frygrfgyufr.Util.myIdggtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.tggthyhy4hy
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.ggtgtgtgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gthuigthgthgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.myIdggtgtgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.tggthyhy4hy
 import com.moonton.mobile.gtnkjgtnktgj.dediuedhdehdehued
 import com.moonton.mobile.gtnkjgtnktgj.deedbdebbdehfggrfgrfy
 import com.my.tracker.MyTracker

@@ -12,6 +12,6 @@
     </item>
 
     <item android:id="@android:id/progress">
-        <clip android:drawable="@drawable/sasha_progress_seek_bar"/>
+        <clip android:drawable="@drawable/vfnbgthgthgt"/>
     </item>
 </layer-list>

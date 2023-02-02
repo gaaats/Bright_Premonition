@@ -1,6 +1,6 @@
 package com.moonton.mobile.frygrfgyufr
 
-object Util {
+object GYUgdyggfryg {
     const val gthuigthgthgt = "a7af21e9-bd93-41ca-b6ae-1b551d6203ae"
     val tggthyhy4hy = "92255413274926608736"
     var aps_idhyhyhyhyhy: String? = "main_id"

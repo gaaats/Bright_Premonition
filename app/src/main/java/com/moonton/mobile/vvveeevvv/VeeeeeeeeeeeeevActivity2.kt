@@ -12,12 +12,11 @@ import android.provider.MediaStore
 import android.util.Log
 import android.webkit.*
 import android.widget.Toast
-import com.google.android.material.snackbar.Snackbar
 import com.moonton.mobile.databinding.ActivityVeeeeeeeeeeeeev2Binding
-import com.moonton.mobile.fgyrfgyrfyg.BeamModel
-import com.moonton.mobile.frygrfgyufr.Util.aps_idhyhyhyhyhy
-import com.moonton.mobile.frygrfgyufr.Util.gthigthgt
-import com.moonton.mobile.frygrfgyufr.Util.myIdggtgtgt
+import com.moonton.mobile.fgyrfgyrfyg.UGgdeffeded
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.aps_idhyhyhyhyhy
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.gthigthgt
+import com.moonton.mobile.frygrfgyufr.GYUgdyggfryg.myIdggtgtgt
 import org.koin.androidx.viewmodel.ext.android.viewModel
 import org.koin.core.qualifier.named
 import java.io.File
@@ -36,7 +35,6 @@ class VeeeeeeeeeeeeevActivity2 : AppCompatActivity() {
 
         val link = frrfhfrhufrgfr.getString(gthigthgt, null)
         Log.d("lolo", link.toString())
-        Toast.makeText(this, "${link}", Toast.LENGTH_LONG).show()
 
         val myTrId = frrfhfrhufrgfr.getString(myIdggtgtgt, null)
         val afId = frrfhfrhufrgfr.getString(aps_idhyhyhyhyhy, null)
@@ -212,7 +210,7 @@ class VeeeeeeeeeeeeevActivity2 : AppCompatActivity() {
     private var mgtgthyhyjuuj: String? = null
     private  val igthyhyhyhyhy = 1
 
-    private val ffrbrffryrfgfrygfrygf by viewModel<BeamModel>(
+    private val ffrbrffryrfgfrygfrygf by viewModel<UGgdeffeded>(
         named("BeamModel")
     )
 
