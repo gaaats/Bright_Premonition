@@ -2,15 +2,14 @@ package com.moonton.mobile.brbfrb
 
 import android.app.Application
 import android.content.Context
-import com.moonton.mobile.frygrfgyufr.Util.gthuigthgthgt
 import com.moonton.mobile.frygrfgyufr.Util.ggtgtgtgt
-import com.moonton.mobile.frygrfgyufr.Util.tggthyhy4hy
+import com.moonton.mobile.frygrfgyufr.Util.gthuigthgthgt
 import com.moonton.mobile.frygrfgyufr.Util.myIdggtgtgt
+import com.moonton.mobile.frygrfgyufr.Util.tggthyhy4hy
 import com.moonton.mobile.gtnkjgtnktgj.dediuedhdehdehued
 import com.moonton.mobile.gtnkjgtnktgj.deedbdebbdehfggrfgrfy
 import com.my.tracker.MyTracker
 import com.onesignal.OneSignal
-import io.branch.referral.Branch
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.GlobalContext
@@ -23,8 +22,6 @@ class SoSoSoClass:Application() {
         super.onCreate()
         OneSignal.initWithContext(this)
         OneSignal.setAppId(gthuigthgthgt)
-        Branch.enableTestMode()
-        Branch.getAutoInstance(this)
 
         val gtgtgtgt = getSharedPreferences("SHARED_PREF", Context.MODE_PRIVATE)
         val gtjitgitg = getSharedPreferences("PREFS_NAME", 0)

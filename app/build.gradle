@@ -40,7 +40,6 @@ android {
 
 dependencies {
 
-
     implementation "io.insert-koin:koin-androidx-workmanager:3.3.0"
     implementation "io.insert-koin:koin-androidx-navigation:3.3.0"
     implementation 'com.android.installreferrer:installreferrer:2.2'
@@ -72,7 +71,6 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:{latest-version}"
     implementation "com.squareup.okhttp3:logging-interceptor:4.10.0"
 
-    implementation 'io.branch.sdk.android:library:5.+'
     implementation 'com.facebook.android:facebook-android-sdk:latest.release'
 
     implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'

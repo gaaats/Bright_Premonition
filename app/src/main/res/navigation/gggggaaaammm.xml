@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/gggggaaaammm"
-    app:startDestination="@id/gaaaammmy1Fragment">
+    app:startDestination="@id/enteeerGameFragment">
 
     <fragment
         android:id="@+id/gaaaammmy1Fragment"
@@ -32,4 +32,38 @@
             android:id="@+id/action_gaaaaamy3Fragment_to_gaaaammmy1Fragment"
             app:destination="@id/gaaaammmy1Fragment" />
     </fragment>
+    <fragment
+        android:id="@+id/enteeerGameFragment"
+        android:name="com.moonton.mobile.EnteeerGameFragment"
+        android:label="fragment_enteeer_game"
+        tools:layout="@layout/fragment_enteeer_game" >
+        <action
+            android:id="@+id/action_enteeerGameFragment_to_difffffLEvelFragment"
+            app:destination="@id/difffffLEvelFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/difffffLEvelFragment"
+        android:name="com.moonton.mobile.DifffffLEvelFragment"
+        android:label="fragment_difffff_l_evel"
+        tools:layout="@layout/fragment_difffff_l_evel" >
+        <action
+            android:id="@+id/action_difffffLEvelFragment_to_gaaaammmy1Fragment"
+            app:destination="@id/gaaaammmy1Fragment" />
+        <action
+            android:id="@+id/action_difffffLEvelFragment_to_setttingsFragment"
+            app:destination="@id/setttingsFragment" />
+        <action
+            android:id="@+id/action_difffffLEvelFragment_to_infoFragFragment"
+            app:destination="@id/infoFragFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/setttingsFragment"
+        android:name="com.moonton.mobile.SetttingsFragment"
+        android:label="fragment_setttings"
+        tools:layout="@layout/fragment_setttings" />
+    <fragment
+        android:id="@+id/infoFragFragment"
+        android:name="com.moonton.mobile.InfoFragFragment"
+        android:label="fragment_info_frag"
+        tools:layout="@layout/fragment_info_frag" />
 </navigation>
